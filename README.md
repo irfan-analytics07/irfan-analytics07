@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey, I'm Irfan 👋
 
-<!--
-**irfan-analytics07/irfan-analytics07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Aspiring Data Analyst | BCA Student
 
-Here are some ideas to get you started:
+> Turning data into insights 📈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+- 🗄️ SQL
+- 📊 Excel
+- 📈 Power BI
+- 🐍 Python
+- 📉 Data Visualization
+
+## 🛠️ Skills
+
+`SQL` `Excel` `Power BI` `Python` `Pandas` `NumPy`
+
+## 📂 My Projects
+
+🔹 SQL Data Analysis  
+🔹 Excel Dashboard  
+🔹 Power BI Dashboard  
+🔹 Python Data Analysis
+
+## 🎯 My Goal
+
+Building real-world projects and becoming a skilled Data Analyst.
+
+---
+
+**Learn • Build • Analyze • Grow 🚀**
